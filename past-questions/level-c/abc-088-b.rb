@@ -23,4 +23,4 @@ end
 
 res = alice - bob
 
-puts alice- bob
+puts alice - bob
